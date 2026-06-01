@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "505037368041",
+    "project_id": "khassamajapp",
+    "storage_bucket": "khassamajapp.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:505037368041:android:aca7f04b4c64814fd55e78",
+        "android_client_info": {
+          "package_name": "com.example.khassamajapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBX92Pqo3tWUFW3NlZ46-VzaZHglVhVj60"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
